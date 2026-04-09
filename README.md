@@ -27,7 +27,6 @@
 ![KG Full Diagram](./kg_full.png)
 
 **Schema 關聯特寫圖：**
-*(請把你的第二張三個節點連線的圖片命名為 kg_schema.png 並放在資料夾中，路徑如下)*
 ![KG Schema Close-up](./kg_schema.png)
 
 ### 3. Key Cypher query design and retrieval strategy
