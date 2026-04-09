@@ -23,7 +23,6 @@
 - **Rule**: `rule_id`, `type`, `action`, `result`, `art_ref`, `reg_name`
 
 **系統節點與關聯全貌：**
-*(請把你的第一張銀河系圖片命名為 kg_full.png 並放在資料夾中，路徑如下)*
 ![KG Full Diagram](./kg_full.png)
 
 **Schema 關聯特寫圖：**
